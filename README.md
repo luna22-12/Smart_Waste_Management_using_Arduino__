@@ -15,11 +15,5 @@ This system helps in monitoring waste bins automatically without manual checking
 ---
 
 ## 🎥 Demo Video
-<video width="480" controls>
-  <source src="smartr__waste__management__arduino.mp4" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
-
-
-
+[Watch Demo Video on YouTube](https://youtube.com/shorts/CslphC05Az4?feature=share)
 
