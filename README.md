@@ -9,14 +9,14 @@ This system helps in monitoring waste bins automatically without manual checking
 ---
 
 ## 📷 Project Images
-![Waste Bin 1](Waste.jpeg)
-![Waste Bin 2](Waste2.jpeg)
+![Waste Bin 1](waste.jpeg)
+![Waste Bin 2](waste2.jpeg)
 
 ---
 
 ## 🎥 Demo Video
 <video width="480" controls>
-  <source src="smartr__waste__management__ardino.mp4" type="video/mp4">
+  <source src="smartr__waste__management__arduino.mp4" type="video/mp4">
   Your browser does not support the video tag.
 </video>
 
